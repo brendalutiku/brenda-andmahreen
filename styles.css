@@ -1,0 +1,33 @@
+
+#button{
+    padding:5px;
+    text-align: center;
+}
+body{
+  background-color: rgba(51, 51, 51, 0.096);
+}
+
+form{
+  text-align: center;
+}
+
+
+/* Style the top navigation bar */
+ .navbar {
+  display: flex;
+  background-color: rgba(51, 51, 51, 0.096);
+}
+
+/* Style the navigation bar links */
+.navbar .b {
+  color: white;
+  padding: 14px 60px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.navbar .b:hover {
+  background-color: pink;
+  color: black;
+}
